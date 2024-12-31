@@ -1,4 +1,4 @@
-/*global $*/
+//  global $
 import React from 'react'
 import flag from '../../commonResource/images/icons/16.png'
 // import "../../commonResource/js/custom.js";

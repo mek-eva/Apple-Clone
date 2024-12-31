@@ -1,4 +1,4 @@
-import React, { Component, useEffect, useState } from "react"
+import React, {useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 
 function Productpage(){
@@ -14,16 +14,16 @@ function Productpage(){
 const {pid: productID}= useParams()
  const [product, setProduct]= useState([])
 useEffect(() => {
- fetch("http://localhost:3001/getiphones")
-      .then((res) => res.json())
-      .then((data) => {
-        const productList = data;
-        const singleProduct = productList.filter(
-          (x) => x.product_id == productID
-        );
-setProduct(singleProduct)
-      } )
-}, [])
+  fetch("http://localhost:3001/getiphones")
+    .then((res) => res.json())
+    .then((data) => {
+      const productList = data;
+      const singleProduct = productList.filter(
+        (x) => x.product_id == productID
+      );
+      setProduct(singleProduct);
+    });
+}, [productID]);
 
  
     // console.log(this.state.productID);

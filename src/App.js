@@ -1,6 +1,6 @@
 
 
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
 import './App.css';
 import Header from './components/Header/Header';
@@ -20,7 +20,7 @@ import Cart from './Pages/Cart/Cart.js';
 import Support from './Pages/Support/Support.js';
 import Music from './Pages/Music/Music.js';
 
-import YoutubeVideos from "./components/YoutubeVideos/YoutubeVideos.js";
+// import YoutubeVideos from "./components/YoutubeVideos/YoutubeVideos.js";
 
 import Main from './components/Main/Main.js';
 import { Route, Routes } from 'react-router-dom';

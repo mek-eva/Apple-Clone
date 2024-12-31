@@ -34,7 +34,7 @@ function Iphone() {
             let Brief = product.product_brief_description;
             let StartPrice = product.starting_price;
             let PriceRange = product.price_range;
-            let productPage = "/iphone/" + id;
+            // let productPage = "/iphone/" + id;
 
             let order1 = 1;
             let order2 = 2;
