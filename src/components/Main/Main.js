@@ -18,7 +18,7 @@ function Main() {
       <FourthSection/>
       <FifthSection/>
       <SixthSection/>
-      {/* <YoutubeVideos/> */}
+      <YoutubeVideos/>
     </>
   );
 }
