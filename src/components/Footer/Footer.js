@@ -126,7 +126,7 @@ function Footer() {
 					</ul>
 				</div>
 				<div className="footer-country  col-sm-12 order-1 col-md-4 order-md-2 text-md-right col-lg-2 order-lg-3">
-					<div className="flag-wrapper"><img src={flag}/></div> <div className="footer-country-name">United States</div> 
+					<div className="flag-wrapper"><img src={flag} alt='flag'/></div> <div className="footer-country-name">United States</div> 
 				</div>
 			</div>
 		</div>
