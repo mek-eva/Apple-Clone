@@ -19,7 +19,7 @@ useEffect(() => {
     .then((data) => {
       const productList = data;
       const singleProduct = productList.filter(
-        (x) => x.product_id == productID
+        (x) => x.product_id === productID
       );
       setProduct(singleProduct);
     });
@@ -38,7 +38,7 @@ useEffect(() => {
               let Brief = product.product_brief_description;
               let StartPrice = product.starting_price;
               let PriceRange = product.price_range;
-              let productPage = "/iphone/" + id;
+              // let productPage = "/iphone/" + id;
               let details = product.product_description;
 
               let productDiv = (
