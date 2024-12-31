@@ -19,98 +19,98 @@ function Footer() {
 				<div className="links-wrapper-1 col-sm-12 col-md">
 					<h3>Shop and Learn</h3>
 					<ul>
-						<li><a href="#">Mac</a></li>
-						<li><a href="#">iPad</a></li>
-						<li><a href="#">iPhone</a></li>
-						<li><a href="#">Watch</a></li>
-						<li><a href="#">TV</a></li>
-						<li><a href="#">Music</a></li>
-						<li><a href="#">AirPods</a></li>
-						<li><a href="#">HomePod</a></li>
-						<li><a href="#">iPod touch</a></li>
-						<li><a href="#">Accessories</a></li>
-						<li><a href="#">Gift Cards</a></li>
+						<li><a href="/home">Mac</a></li>
+						<li><a href="/home">iPad</a></li>
+						<li><a href="/home">iPhone</a></li>
+						<li><a href="/home">Watch</a></li>
+						<li><a href="/home">TV</a></li>
+						<li><a href="/home">Music</a></li>
+						<li><a href="/home">AirPods</a></li>
+						<li><a href="/home">HomePod</a></li>
+						<li><a href="/home">iPod touch</a></li>
+						<li><a href="/home">Accessories</a></li>
+						<li><a href="/home">Gift Cards</a></li>
 					</ul>
 				</div> 
 				<div className="links-wrapper-2 col-sm-12 col-md">
 					<h3>Services</h3>
 					<ul>
-						<li><a href="#">Apple Music</a></li>
-						<li><a href="#">Apple News+</a></li>
-						<li><a href="#">Apple TV+</a></li>
-						<li><a href="#">Apple Arcade</a></li>
-						<li><a href="#">Apple Card</a></li>
-						<li><a href="#">iCloud</a></li>
+						<li><a href="/home">Apple Music</a></li>
+						<li><a href="/home">Apple News+</a></li>
+						<li><a href="/home">Apple TV+</a></li>
+						<li><a href="/home">Apple Arcade</a></li>
+						<li><a href="/home">Apple Card</a></li>
+						<li><a href="/home">iCloud</a></li>
 					</ul>
 					<h3>Account</h3>
 					<ul>
-						<li><a href="#">Manage Your Apple ID</a></li>
-						<li><a href="#">Apple Store Account</a></li>
-						<li><a href="#">iCloud.com</a></li>
+						<li><a href="/home">Manage Your Apple ID</a></li>
+						<li><a href="/home">Apple Store Account</a></li>
+						<li><a href="/home">iCloud.com</a></li>
 					</ul>					
 				</div> 
 				<div className="links-wrapper-3 col-sm-12 col-md">
 					<h3>Apple Store</h3>
 					<ul>
-						<li><a href="#">Find a Store</a></li>
-						<li><a href="#">Genius Bar</a></li>
-						<li><a href="#">Today at Apple</a></li>
-						<li><a href="#">Apple Camp</a></li>
-						<li><a href="#">Field Trip</a></li>
-						<li><a href="#">Apple Store App</a></li>
-						<li><a href="#">Refurbished and Clearance</a></li>
-						<li><a href="#">Financing</a></li>
-						<li><a href="#">Apple Trade In</a></li>
-						<li><a href="#">Order Status</a></li>
-						<li><a href="#">Shopping Help</a></li>
+						<li><a href="/home">Find a Store</a></li>
+						<li><a href="/home">Genius Bar</a></li>
+						<li><a href="/home">Today at Apple</a></li>
+						<li><a href="/home">Apple Camp</a></li>
+						<li><a href="/home">Field Trip</a></li>
+						<li><a href="/home">Apple Store App</a></li>
+						<li><a href="/home">Refurbished and Clearance</a></li>
+						<li><a href="/home">Financing</a></li>
+						<li><a href="/home">Apple Trade In</a></li>
+						<li><a href="/home">Order Status</a></li>
+						<li><a href="/home">Shopping Help</a></li>
 					</ul>
 				</div>  
 				<div className="links-wrapper-4 col-sm-12 col-md">
 					<h3>For Business</h3>
 					<ul>
-						<li><a href="#">Apple and Business</a></li>
-						<li><a href="#">Shop for Business</a></li>
+						<li><a href="/home">Apple and Business</a></li>
+						<li><a href="/home">Shop for Business</a></li>
 					</ul>		
 					<h3>For Education</h3>
 					<ul>
-						<li><a href="#">Apple and Education</a></li>
-						<li><a href="#">Shop for College</a></li>
+						<li><a href="/home">Apple and Education</a></li>
+						<li><a href="/home">Shop for College</a></li>
 					</ul>
 					<h3>For Healthcare</h3>
 					<ul>
-						<li><a href="#">Manage Your Apple ID</a></li>
-						<li><a href="#">Apple Store Account</a></li>
-						<li><a href="#">iCloud.com</a></li>
+						<li><a href="/home">Manage Your Apple ID</a></li>
+						<li><a href="/home">Apple Store Account</a></li>
+						<li><a href="/home">iCloud.com</a></li>
 					</ul>	
 					<h3>For Government</h3>
 					<ul>
-						<li><a href="#">Apple and Education</a></li>
-						<li><a href="#">Shop for College</a></li>
+						<li><a href="/home">Apple and Education</a></li>
+						<li><a href="/home">Shop for College</a></li>
 					</ul>
 				</div> 
 				<div className="links-wrapper-5 col-sm-12 col-md">
 					<h3>Apple Values</h3>
 					<ul>
-						<li><a href="#">Find a Store</a></li>
-						<li><a href="#">Genius Bar</a></li>
-						<li><a href="#">Today at Apple</a></li>
-						<li><a href="#">Apple Camp</a></li>
-						<li><a href="#">Field Trip</a></li>
-						<li><a href="#">Apple Store App</a></li>
+						<li><a href="/home">Find a Store</a></li>
+						<li><a href="/home">Genius Bar</a></li>
+						<li><a href="/home">Today at Apple</a></li>
+						<li><a href="/home">Apple Camp</a></li>
+						<li><a href="/home">Field Trip</a></li>
+						<li><a href="/home">Apple Store App</a></li>
 					</ul>
 					<h3>About Apple</h3>
 					<ul>
-						<li><a href="#">Find a Store</a></li>
-						<li><a href="#">Genius Bar</a></li>
-						<li><a href="#">Today at Apple</a></li>
-						<li><a href="#">Apple Camp</a></li>
-						<li><a href="#">Field Trip</a></li>
-						<li><a href="#">Apple Store App</a></li>
+						<li><a href="/home">Find a Store</a></li>
+						<li><a href="/home">Genius Bar</a></li>
+						<li><a href="/home">Today at Apple</a></li>
+						<li><a href="/home">Apple Camp</a></li>
+						<li><a href="/home">Field Trip</a></li>
+						<li><a href="/home">Apple Store App</a></li>
 					</ul>						
 				</div> 
 			</div>
 			<div className="my-apple-wrapper"> 
-				More ways to shop: <a href="#">Find an Apple Store</a> or <a href="#">other retailer</a> near you. Or call 1-800-MY-APPLE.
+				More ways to shop: <a href="/home">Find an Apple Store</a> or <a href="/home">other retailer</a> near you. Or call 1-800-MY-APPLE.
 			</div>
 			<div className="copyright-wrapper row">
 				<div className="copyright col-sm-12 order-2 col-md-8 order-md-1 col-lg-4 order-lg-1">
@@ -118,11 +118,11 @@ function Footer() {
 				</div>
 				<div className="footer-links-terms  col-sm-12 order-3 col-lg-6 order-lg-2">
 					<ul>
-						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="#">Terms of Use</a></li>
-						<li><a href="#">Sales and Refunds</a></li>
-						<li><a href="#">Legal</a></li>
-						<li><a href="#">Site Map</a></li>
+						<li><a href="/home">Privacy Policy</a></li>
+						<li><a href="/home">Terms of Use</a></li>
+						<li><a href="/home">Sales and Refunds</a></li>
+						<li><a href="/home">Legal</a></li>
+						<li><a href="/home">Site Map</a></li>
 					</ul>
 				</div>
 				<div className="footer-country  col-sm-12 order-1 col-md-4 order-md-2 text-md-right col-lg-2 order-lg-3">
